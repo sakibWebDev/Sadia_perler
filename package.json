@@ -1,0 +1,30 @@
+{
+  "name": "sadia-perler",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "mongodb": "^6.11.0",
+    "next": "15.0.3",
+    "next-auth": "^4.24.11",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.4.0",
+    "sweetalert2": "^11.14.5",
+    "swiper": "^11.1.15",
+    "tw-elements-react": "^1.0.0-alpha-end"
+  },
+  "devDependencies": {
+    "daisyui": "^4.12.14",
+    "eslint": "^8",
+    "eslint-config-next": "15.0.3",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
